@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap');
+
+
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #303030;
+	
+		
+	
+}
+
+
+#sec-hero{
+	background-image: url("../img/hero-image.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	padding: 50px 0px;
+	text-align: center;
+	border-bottom: 10px;
+}
+
+
+#sec-hero .btn {
+	color: #8e7754;
+	text-transform: uppercase;
+	border-radius: 0;
+	margin-top: 40px;
+	
+}
+.bot
+
+#sec-hero h1{
+	font-size: 60px;
+	font-weight: 400;
+	font-family: 'Alegreya';
+}
+
+#sec-hero p{
+	font-size: 16px;
+	margin-top: 60px;
+}
+
+
+
+
+
+#sec-about{
+	padding:10px 0;
+	background-color: #FFFFFF;
+	
+}
+
+.titulo{
+	font-size: 37px;
+	color: #5e5e5e;
+	font-family: 'Alegreya';
+}
+
+#sec-about .btn{
+	background-color: #614A3D;
+	color: #fff;
+	border-radius: 0;
+	text-transform: uppercase;
+	padding: 5px 0;
+	font-weight: 600;
+	
+}
+
+
+.redes{
+	margin: 10px 0;
+	font-family:  'Alegreya', serif;
+	font-size:  18px;
+}
+
+.redes li{
+	display: inline-block;
+	font-size:25px;
+	text-align: center;
+}
+
+
+.redes a{
+	width: 50px;
+	height: 50px;
+	line-height: 60px;
+	border: 2px solid #000000;
+	display: block;
+	border-radius: 100%;
+	color: #000000;
+	
+}
+
+
+#sec-location{
+	padding:10px 0;
+	background-color: #f8f8f8;
+}
+
+.titulo{
+	font-size: 37px;
+	color: #5e5e5e;
+	font-family: 'Alegreya';
+	text-align: center;
+}
+
+
+.subtitulo{
+	font-family: 'Alegreya', serif;
+	color: #303030;;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
+#sec-baking{
+
+padding:40px 0;
+	background-color: #FFFFFF;
+	
+}
+
+
+
+
+
+
+footer{
+	background-color: #353330;
+	padding: 15px 0;
+	color: #777;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
